@@ -8,7 +8,7 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
   Tying the knot at the seaside 
-hero_media: plane.jpg
+hero_media: engaged.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
