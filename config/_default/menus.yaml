@@ -10,15 +10,4 @@ main:
   - name: Stay
     url: tour
     weight: 20
-  - name: Do
-    url: post
-    weight: 30
-  - name: Humans
-    url: people
-    weight: 40
-  - name: History
-    url: event
-    weight: 50
-  - name: Contact
-    url: contact
-    weight: 60
+

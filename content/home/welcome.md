@@ -11,7 +11,7 @@ title: |
 hero_media: engaged.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '3'
   # Add custom styles
   css_style:
   css_class:
@@ -21,4 +21,3 @@ design:
 
 Sam and Anna are tying the knott.
 
-some spiel about this.

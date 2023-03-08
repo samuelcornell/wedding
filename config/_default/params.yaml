@@ -8,18 +8,18 @@
 appearance:
   theme_day: minimal
   theme_night:
-  font: native
-  font_size: L
+  font: minimal
+  font_size: M
 
 # SEO
 
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
+    local_business_type: 'person'
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Join Sam and Anna for their wedding in Sydney in March 2024 at the beautiful Wylies Baths.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -31,19 +31,19 @@ marketing:
 
 header:
   navbar:
-    enable: true
-    align: r
+    enable: false
+    align: c
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 2023 Samuel Cornell. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
